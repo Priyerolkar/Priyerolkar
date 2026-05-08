@@ -1,16 +1,23 @@
-## Hi there 👋
+### Hi, I'm Priyanka Yerolkar 👋
 
-<!--
-**Priyerolkar/Priyerolkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Mechanical & Automotive Engineer building AI for industrial problems.**
 
-Here are some ideas to get you started:
+🔧 B.E. Mechanical | M.E. Automotive Engineering  
+🤖 Now: ML, GenAI, RAG systems, Agentic AI  
+🎯 Focus: Predictive maintenance, manufacturing AI, 
+    engineering knowledge systems
+📍 Chicago, USA · Open to ML/GenAI roles
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### 🚀 What I'm building
+- **Project 1** — RAG over automotive service manuals
+- **Project 2** — Predictive maintenance on turbofan data
+- **Project 3** — Defect detection for cast components
+
+#### 🛠️ Stack
+Python · PyTorch · scikit-learn · LangChain · LlamaIndex · 
+FAISS/Chroma · FastAPI · Docker · AWS
+
+#### 📫 Connect
+LinkedIn: www.linkedin.com/in/priyankayerolkar · Email: yerolkarp@gmail.com · 
